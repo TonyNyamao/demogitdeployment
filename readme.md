@@ -1,6 +1,10 @@
 1. Go to Your Project Folder
 Open terminal and move to the project directory.
 
+        for example in visual studio code (VS CODE)
+        ![Folder screenshot](images/Screenshot%202026-03-12%20at%2012.23.41.png)
+        
+
 code:
             cd path/to/your/project
             cd Desktop/my-python-project
