@@ -2,7 +2,7 @@
 Open terminal and move to the project directory.
 
         for example in visual studio code (VS CODE)
-        ![Folder screenshot](images/Screenshot%202026-03-12%20at%2012.23.41.png)
+        <img src="images/Screenshot 2026-03-12 at 12.23.41.png" width="700">
         
 
 code:
