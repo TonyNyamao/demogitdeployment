@@ -2,7 +2,7 @@
 Open terminal and move to the project directory.
 
         for example in visual studio code (VS CODE)
-        <img src="images/Screenshot 2026-03-12 at 12.23.41.png" width="700">
+<img src="images/Screenshot 2026-03-12 at 12.23.41.png" width="700">
         
 
 code:
